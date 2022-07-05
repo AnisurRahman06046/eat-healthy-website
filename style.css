@@ -69,21 +69,56 @@ h2{
     text-align: center;
     padding-left: 50% ;
 }
-.food-container{
+.card-container{
     display: flex;
+    margin-top: 40px;
+    justify-content: center;
+    
 }
-.food-pic-width img{
-
-    width: 50%;
+.card1-image{
+    width: 100%;
+    height: auto 
+    
+    
+    
+}
+.card-1{
+    width: 40%;
+    margin-left: 40px;
+    box-shadow: 2px 2px 2px 6px #c1bfbf,-2px -2px 2px 2px #BDBDBD;
+    
+    border-radius: 20px ;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+.card-1 p{
+    padding: 12px;
+}
+.card-1 h2{
+    padding-left: 12px;
+}
+.card2-image{
+    width: 100%;
     height: auto;
-    margin-left: 10%;
-    padding-bottom: 20%;
-    padding-left: 2%;
-    padding-top: 2%;
-    padding-right: 2%;
-    margin-top: 10%;
-    box-shadow: 10px 10px 30px grey;
-    border-radius: 20px;
-    
-    
+}
+.card-2{
+    width: 40%;
+    margin-left: 40px;
+
+   
+   box-shadow: 2px 2px 2px 6px #BDBDBD,-2px -2px 2px 2px #BDBDBD;
+   
+   border-radius: 20px ;
+   padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.card-2 p{
+    padding: 12px;
+}
+.card-2 h2{
+    margin-top: 80px;
+    padding-left: 12px;
 }
