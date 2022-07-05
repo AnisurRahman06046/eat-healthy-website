@@ -39,12 +39,17 @@ h1{
 .about-container{
     display:flex;
     background-image: url(images/shapes/bg-about-image.png);
-    margin-top: 10%;
+    background-repeat: no-repeat;
+    margin-top: 5%;
     
 }
 .half-width-about img{
     width: 50%;
     height: auto;
-    padding-left: 15%;
+    padding-left: 20%;
     margin-top: 20%;
+}
+#about-text{
+    padding-right: 10%;
+    margin-top: 10%;
 }
