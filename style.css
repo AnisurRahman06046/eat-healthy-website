@@ -27,3 +27,15 @@ h1{
 .skip-color{
     color: orange;
 }
+.button-link{
+    color: white;
+    background-image: linear-gradient(orange,rgb(215, 56, 28));
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    border-radius: 30px;
+    text-decoration: none;
+    font-weight: 700;
+    
+}
