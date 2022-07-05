@@ -16,10 +16,7 @@ body{
     margin-top: 10%;
     
 }
-.half-width img{
-    width: 100%;
-    height: auto;
-}
+
 h1{
     font-size: 50px;
     
@@ -38,4 +35,16 @@ h1{
     text-decoration: none;
     font-weight: 700;
     
+}
+.about-container{
+    display:flex;
+    background-image: url(images/shapes/bg-about-image.png);
+    margin-top: 10%;
+    
+}
+.half-width-about img{
+    width: 50%;
+    height: auto;
+    padding-left: 15%;
+    margin-top: 20%;
 }
