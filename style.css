@@ -1,0 +1,29 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+.upper-container{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+
+
+}
+.text-area{
+    padding-left: 5%;
+    margin-top: 10%;
+    
+}
+.half-width img{
+    width: 100%;
+    height: auto;
+}
+h1{
+    font-size: 50px;
+    
+}
+.skip-color{
+    color: orange;
+}
